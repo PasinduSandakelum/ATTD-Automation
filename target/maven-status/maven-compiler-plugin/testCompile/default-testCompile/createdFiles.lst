@@ -1,0 +1,5 @@
+com\sgic\automation\atdd\demo\steps\LoginSteps.class
+com\sgic\automation\demo\pages\UserManagementPage.class
+com\sgic\automation\demo\pages\LoginPage.class
+com\sgic\automation\demo\pages\DashboardPage.class
+com\sgic\automation\demo\pages\BasePage.class
